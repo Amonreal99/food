@@ -1,0 +1,10 @@
+.buttonContainer{
+    background:transparent;
+    width: 80px;
+    height: 30px;
+    border-radius: 10px;
+    
+}
+.buttonContainer:hover{
+    background-color: red;
+}
