@@ -1,8 +1,14 @@
 .homeContainer{
-    background-color: red;
+    background-color: rgb(255, 255, 255);
     height: 100vh;
 }
-.navContainer{
-    background-color: blue;
-    height: 70px;
+.Burger{
+    display:flex;
+    justify-self: center;
+    width: 300px;
+    padding-top: 50px;
+}
+.footerContainer{
+    padding-top:43%;
+    background: rgb(209, 209, 209);
 }
